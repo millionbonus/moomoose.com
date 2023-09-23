@@ -6,7 +6,7 @@ cover-img: https://images.unsplash.com/photo-1549471013-3364d7220b75?ixlib=rb-4.
 footer-extra: [cc.html]
 ---
 
-moomoose (哞哞思 - 哞鹿)
+# moomoose (哞哞思 - 哞鹿)
 
 Moomoose, the golden moose, was a legend among the people of the North. It was said to be able to grant wealth and fortune to those who were lucky enough to encounter it.
 One day, a young man named Lars was walking through the forest when he came across a strange sight. There, in the middle of a clearing, stood a magnificent golden moose. Lars had never seen anything like it before.
