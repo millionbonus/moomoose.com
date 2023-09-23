@@ -2,7 +2,7 @@
 layout: page
 title: moomoose
 subtitle: 
-cover-img: 'https://images.unsplash.com/photo-1549471013-3364d7220b75?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600'
+cover-img: https://images.unsplash.com/photo-1549471013-3364d7220b75?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600
 ---
 
 # moomoose (哞哞思 - 哞鹿)
