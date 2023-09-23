@@ -22,4 +22,4 @@ Lars thanked Moomoose for its gift, and promised to use it to make the world a b
 And so, the legend of Moomoose, the golden moose, continues to this day. It is a reminder that true wealth comes from within, and that those who are kind and generous will always be rewarded.
 
 
-[![moose](https://img.youtube.com/vi/bujmogxgtp4/0.jpg)](https://youtu.be/bujmogxgtp4?si=xD7JPrP09qaRWqFw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bujmogxgtp4?si=uIIKjPVTLTvBPiHm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
