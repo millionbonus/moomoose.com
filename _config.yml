@@ -42,6 +42,13 @@ round-avatar: true
 #title-img: /path/to/image
 
 
+################
+# ---Rage Cover --- #
+################
+page:
+  cover-img: 'https://images.unsplash.com/photo-1549471013-3364d7220b75?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600'
+
+
 #####################################
 # --- Footer social media links --- #
 #####################################
