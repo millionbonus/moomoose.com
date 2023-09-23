@@ -6,7 +6,7 @@ cover-img: https://images.unsplash.com/photo-1549471013-3364d7220b75?ixlib=rb-4.
 footer-extra: [cc.html]
 ---
 
-# moomoose the
+# moomoose the moose
 **(哞哞思 - 哞鹿)**
 
 Moomoose, the golden moose, was a legend among the people of the North. It was said to be able to grant wealth and fortune to those who were lucky enough to encounter it.
