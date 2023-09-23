@@ -19,8 +19,7 @@ author: moomoose
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
-  Moose by Olha Ivanenko from Noun Project (CC BY 3.0): "https://thenounproject.com/browse/icons/term/moose/"
+#navbar-links:
  # About Me: "aboutme"
  # Resources:
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"

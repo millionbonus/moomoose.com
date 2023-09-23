@@ -3,6 +3,7 @@ layout: page
 title: 
 subtitle: 
 cover-img: /assets/img/moose-bg.jpg
+footer-extra: [cc.html]
 ---
 
 # moomoose the moose
