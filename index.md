@@ -6,7 +6,7 @@ cover-img: https://images.unsplash.com/photo-1549471013-3364d7220b75?ixlib=rb-4.
 footer-extra: [cc.html]
 ---
 
-# moomoose (哞哞思 - 哞鹿)
+## moomoose (哞哞思 - 哞鹿)
 
 Moomoose, the golden moose, was a legend among the people of the North. It was said to be able to grant wealth and fortune to those who were lucky enough to encounter it.
 One day, a young man named Lars was walking through the forest when he came across a strange sight. There, in the middle of a clearing, stood a magnificent golden moose. Lars had never seen anything like it before.
@@ -19,6 +19,3 @@ Moomoose then told Lars that it was going to give him another gift. It reached o
 "From now on, you will have the ability to sense the needs of others," Moomoose said. "You will also be able to use your wealth to help even more people."
 Lars thanked Moomoose for its gift, and promised to use it to make the world a better place. He continued to use his wealth and power to help others, and he became known as the most generous and benevolent man in all the land.
 And so, the legend of Moomoose, the golden moose, continues to this day. It is a reminder that true wealth comes from within, and that those who are kind and generous will always be rewarded.
-
-
-> Moose by Olha Ivanenko from <a href="https://thenounproject.com/browse/icons/term/moose/" target="_blank" title="Moose Icons">Noun Project</a> (CC BY 3.0)
