@@ -25,8 +25,8 @@ It smiled at Lars and said, "I am proud of you, Lars. You have used your wealth 
 Moomoose then told Lars that it was going to give him another gift. It reached out and touched Lars's forehead, and Lars felt a surge of power flow through him.  
 "From now on, you will have the ability to sense the needs of others," Moomoose said. "You will also be able to use your wealth to help even more people."  
 Lars thanked Moomoose for its gift, and promised to use it to make the world a better place.  
-He continued to use his wealth and power to help others, and he became known as the most generous and benevolent man in all the land.  
 
+He continued to use his wealth and power to help others, and he became known as the most generous and benevolent man in all the land.  
 And so, the legend of Moomoose, the golden moose, continues to this day.  
 It is a reminder that true wealth comes from within, and that those who are kind and generous will always be rewarded.
 
